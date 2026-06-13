@@ -2,10 +2,11 @@
 
 ### Python Developer | Transitioning into Full-Stack Development
 
-Welcome to my GitHub! I love building things from scratch, facing complex problems, optimizing clean code, and bringing creative ideas to life. You can follow my learning process here! I am always open to code reviews to help me grow. 💙
 
-*   🚀 **What I'm doing now:** Currently expanding my skills by learning **TypeScript** and Frontend development with **React**. My immediate next step is to build a web application that integrates and leverages external APIs.
-*   🎯 **Future roadmap:** Next, I will be diving into **SQL** and **Node.js** to master backend development and fully complete my transition into a Full-Stack Developer.
+Welcome to my GitHub! I am a completely self-taught developer. Everything you see here is the result of my self-taught journey. I love building things from scratch, facing complex problems, optimizing clean code, and bringing creative ideas to life. You can follow my learning process here! I am always open to code reviews to help me grow. ❤️
+
+* **What I'm doing now?** Currently expanding my skills by learning **TypeScript** and Frontend development with **React**. My immediate next step is to build a web application that integrates and leverages external APIs.
+* **Future roadmap:** Next, I will be diving into **SQL** and **Node.js** to master backend development and fully complete my transition into a Full-Stack Developer 🎯 
 
 ---
 
