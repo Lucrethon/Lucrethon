@@ -1,10 +1,8 @@
-# Hi, I'm Lucrecia! 👋
+# Hi, I'm Lucrecia! (but you can call me Lulu) 👋
 
 ### Python Developer | Transitioning into Full-Stack Development
 
-My name is Lucrecia, but you can call me just Lulu, it's easier! 
-
-I am a driven developer focused on building clean, efficient, and well-structured applications. I love facing logical challenges, optimizing code, and bringing ideas to life. **I am always open to code reviews to help me grow.**
+Welcome to my GitHub! I love building things from scratch, facing complex problems, optimizing clean code, and bringing creative ideas to life. You can follow my learning process here! I am always open to code reviews to help me grow. 💙
 
 *   🚀 **What I'm doing now:** Currently expanding my skills by learning **TypeScript** and Frontend development with **React**. My immediate next step is to build a web application that integrates and leverages external APIs.
 *   🎯 **Future roadmap:** Next, I will be diving into **SQL** and **Node.js** to master backend development and fully complete my transition into a Full-Stack Developer.
@@ -13,21 +11,13 @@ I am a driven developer focused on building clean, efficient, and well-structure
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Core:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Environment:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
+*   **Languages:** Python, JavaScript, TypeScript
+*   **Frontend:** React, HTML5, CSS3
+*   **Tools & Environment:** Git, GitHub, Linux (Ubuntu)
 
 ---
 
-### 🚀 Featured Project
+### ❤️ Projects I'm Proud Off 
 
 #### 🕹️ [Pygame Knight](https://github.com/Lucrethon/Pygame_Knight)
 A 2D combat arena game built from scratch. This project represents a major milestone in my development journey, combining complex logic with creative execution.
