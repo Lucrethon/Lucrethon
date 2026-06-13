@@ -45,17 +45,11 @@ When I'm not writing code or debugging, you’ll probably find me:
 * 👾 Designing custom pixel art assets and animations.
 * 🧵 Working on meticulous hands-on projects like tailoring and sewing.
 
----
-
-### 📊 GitHub Stats
-
-![Lucrecia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucrethon&show_icons=true&theme=radial&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucrethon&layout=compact&theme=radial)
 
 ---
 
 ### 🤝 Connect with me
-- 💼 LinkedIn: [[Your LinkedIn Link](https://www.linkedin.com/in/lucrecia-michelena-borges-718571233/)]
+- 💼 LinkedIn: [[Lucrecia Michelena](https://www.linkedin.com/in/lucrecia-michelena-borges-718571233/)]
 - 📧 Email: [lucrecimich@gmail.com]
 
 <!--
